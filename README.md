@@ -19,6 +19,8 @@ Desarrollo FullStack utilizando NestJs, React y MongoDB.
 - Planificación Técnica: Análisis de requerimientos de negocio para traducirlos en especificaciones técnicas, estimando tiempos y dividiendo proyectos grandes en tareas de desarrollo ejecutables.
 
 - Calidad de Código: Implementación de buenas prácticas de ingeniería, incluyendo revisiones de código (code reviews), escritura de pruebas unitarias y uso de principios SOLID.
+  
+- Uso de herramientas de inteligencia artificial como Github Copilot, Opencode y modelos de Anthropic.
 
 ### Logros:
 - Implementación base de permisos de usuario según diferentes roles del negocio.
